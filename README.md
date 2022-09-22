@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VanF90
 - 👀 I’m interested in back-end dev
-- 🌱 I’m currently learning php! Had experience with ReactJS!
+- 🌱 I’m currently learning NodeJS! Had experience with Python!
 - 💞️ I’m looking for trainee position for free
 - 📫 How to reach me : buderdegi@mail.ru telegram: @carnage_v
 
