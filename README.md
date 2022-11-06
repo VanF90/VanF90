@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @VanF90
+- 👋 Hi, I’m Vladimir! @VanF90
 - 👀 I’m interested in back-end dev
 - 🌱 I’m currently learning Python! Had experience with JS, PHP!
-- 💞️ I’m looking for trainee position for free!
+- 💞️ I’m looking for trainee/junior position
 - 📫 How to reach me : buderdegi@mail.ru telegram: @carnage_v
 
 <!---
