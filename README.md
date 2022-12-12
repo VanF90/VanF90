@@ -2,7 +2,7 @@
 - 👀 I’m interested in back-end dev
 - 🌱 I’m currently learning Python Django! Had experience with JS, PHP!
 - 💞️ I’m looking for trainee/junior position
-- 📫 How to reach me : buderdegi@mail.ru telegram: @carnage_v
+- 📫 How to reach me : buderdegi@icloud.com telegram: @carnage_v
 
 <!---
 VanF90/VanF90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
