@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vladimir! @VanF90
-- 👀 I’m interested in back-end dev
-- 🌱 I’m currently learning Python Django! Had experience with JS, PHP!
-- 💞️ I’m looking for trainee/junior position
+- 👀 I’m back-end dev
+- 🌱 I’m work with Python Django! Had experience with JS, PHP!
+- 💞️ I’m looking for any position
 - 📫 How to reach me : buderdegi@icloud.com telegram: @carnage_v
 
 <!---
