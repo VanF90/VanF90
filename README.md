@@ -1,7 +1,4 @@
 - Hi, I’m Vladimir! @VanF90
-- I’m back-end dev
-- I work with Python Django! Had experience with JS, PHP!
-- I’m open for a job
 - How to reach me : buderdegi@icloud.com telegram: @carnage_v
 - https://www.codewars.com/users/VanF90
 - https://leetcode.com/VanF90/
